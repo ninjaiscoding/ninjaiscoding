@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A passionate towards Data Analytics and Tech field overall</h3>
+<h3 align="center">I am passionate about Data Analytics and the tech field overall.
+</h3>
 
 - 🔭 I’m currently working on **KPI project for monthly sales and lot more**
 
