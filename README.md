@@ -78,7 +78,7 @@ Data modelling • Data cleaning & transformation • Dashboard design • SQL &
 
 ---
 
-### 🚀 Selected Projects & Highlights
+### 🚀 Projects & Highlights
 
 <a href=https://github.com/ninjaiscoding/Interactive-KPI-Tracker>KPI TRACKER </a>
 
