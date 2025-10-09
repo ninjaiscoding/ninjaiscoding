@@ -9,7 +9,19 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1500&color=00BFFF&center=true&vCenter=true&width=800&lines=📊+From+Data+to+Decisions;🔍+Revealing+Insights+&+Stories;💡+Empowering+Data-Driven+Action;🧠+Curious+Mind;🤔+Problem+Solving;📈+Data+Understanding" 
+    src="https://readme-typing-svg.herokuapp.com?
+         font=Fira+Code
+         &size=32
+         &duration=3000
+         &pause=1500
+         &color=00BFFF
+         &center=true
+         &vCenter=true
+         &width=900
+         &height=100
+         &multiline=true
+         &lines=📊+From+Data+to+Decisions;🔍+Revealing+Insights+&+Stories;🚀+Building+KPI+Dashboards;💡+Empowering+Data-Driven+Action;🤔+Curious+Mind;🧠+Problem+Solving;📈+Data+Understanding
+    " 
     alt="Typing SVG" 
   />
 </p>
