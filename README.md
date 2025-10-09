@@ -80,7 +80,7 @@ Data modelling • Data cleaning & transformation • Dashboard design • SQL &
 
 ### 🚀 Selected Projects & Highlights
 
-> *(You can update this section with links/screenshots as you build more)*
+<a href=https://github.com/ninjaiscoding/Interactive-KPI-Tracker>KPI TRACKER </a>
 
 - **Monthly Sales KPI Dashboard** – Combining SQL data sources, dashboard in Power BI, forecasting trend lines & alerts.  
 - **Database Optimization Scripts** – Writing efficient queries for large datasets to reduce latency.  
@@ -88,13 +88,6 @@ Data modelling • Data cleaning & transformation • Dashboard design • SQL &
 
 ---
 
-### 📄 GitHub Stats & Activity
-
-![Aryan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-> *“Turning raw data into meaningful insights, one chart at a time.”*
-
----
 
 Thanks for stopping by! If something here interests you — a project idea, collaboration or just a chat — I’d love to connect. 😊
 </div>
