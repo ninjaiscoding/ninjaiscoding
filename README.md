@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">I am passionate about Data Analytics, problem-solving, and exploring how technology shapes the world.</h3>
 
-- 🔭 I’m currently working on **a KPI dashboard project for monthly sales analysis**, exploring data-driven insights and improving business decision-making.  
+- 🔭 I’m currently working on **Discord Chatbot about command for a specific task**, exploring data-driven insights and improving business decision-making.  
 - 🌱 I’m continuously learning **advanced Excel, Power BI, SQL, and Python for Data Analytics**, while also exploring automation and visualization techniques.  
 - 👯 I’m looking to collaborate on **data analytics projects, dashboards, and open-source contributions** that make real-world impact.  
 - 💬 Ask me about **data visualization, storytelling with data, or database optimization** — I’d love to chat!  
