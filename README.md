@@ -9,10 +9,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1200&pause=800&color=00BFFF&center=true&vCenter=true&width=640&lines=📊+From+Data+to+Decisions;🔍+Revealing+Insights+&+Stories;🚀+Building+KPI+Dashboards;💡+Empowering+Data-Driven+Action" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=00BFFF&center=true&vCenter=true&width=800&height=80&lines=📊+From+Data+to+Decisions;🔍+Revealing+Insights+&+Stories;🚀+Building+KPI+Dashboards;💡+Empowering+Data-Driven+Action;🤔+Curious+Mind;🧠+Problem+Solving;📈+Data+Understanding" 
     alt="Typing SVG" 
   />
 </p>
+
 
 
 I’m a **Data Analytics Enthusiast** who loves turning raw numbers into stories, charts, and insights that drive action.
