@@ -54,7 +54,7 @@ I’m a **Data Analytics Enthusiast** who likes turning raw numbers into stories
 ---
 
 **🔭 Right now I’m working on:**  
-A **Discord Chatbot which can performs action on specific commond** focusing on monthly sales trends, forecasting, and performance metrics to help businesses make sense of their data.
+A **Discord Chatbot which can performs action on specific commond**
 
 **🌱 I’m currently learning & exploring:**  
 
