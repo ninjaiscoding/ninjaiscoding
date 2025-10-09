@@ -17,7 +17,7 @@
 
 
 
-I’m a **Data Analytics Enthusiast** who loves turning raw numbers into stories, charts, and insights that drive action.
+I’m a **Data Analytics Enthusiast** who likes turning raw numbers into stories, charts, and insights that drive action.
 
 ---
 
