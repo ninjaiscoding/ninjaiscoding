@@ -9,10 +9,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=00BFFF&center=true&vCenter=true&width=800&lines=📊+From+Data+to+Decisions;🔍+Curious+Mind+That+Digs+Into+Details;💡+Problem+Solver+&+Data+Understanding;🚀+Building+KPI+Dashboards;💼+Empowering+Data-Driven+Action" 
+    src="https://readme-typing-svg.herokuapp.com?font=Arial&size=36&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&width=900&lines=📊+From+Data+to+Decisions;🔍+Curious+Mind+for+Insights;💡+Problem+Solving+&+Data+Understanding;🚀+Building+KPI+Dashboards;📈+Empowering+Data-Driven+Action" 
     alt="Typing SVG" 
   />
 </p>
+
 
 
 
