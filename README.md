@@ -18,14 +18,13 @@
          &center=true
          &vCenter=true
          &width=900
-         &height=100
+         &height=120
          &multiline=true
          &lines=📊+From+Data+to+Decisions;🔍+Revealing+Insights+&+Stories;🚀+Building+KPI+Dashboards;💡+Empowering+Data-Driven+Action;🤔+Curious+Mind;🧠+Problem+Solving;📈+Data+Understanding
     " 
     alt="Typing SVG" 
   />
 </p>
-
 
 
 I’m a **Data Analytics Enthusiast** who loves turning raw numbers into stories, charts, and insights that drive action.
