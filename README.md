@@ -20,29 +20,6 @@
 I’m a **Data Analytics Enthusiast** who likes turning raw numbers into stories, charts, and insights that drive action.
 
 ---
-
-**🔭 Right now I’m working on:**  
-A **KPI dashboard project** focusing on monthly sales trends, forecasting, and performance metrics to help businesses make sense of their data.
-
-**🌱 I’m currently learning & exploring:**  
-- Advanced visualization in **Power BI**  
-- Building backend/data pipelines with **Node.js**  
-- Enhanced SQL querying and database optimisation  
-- Data storytelling with dashboards, charts, and clean layouts  
-
-**💬 Ask me about:**  
-Data modelling • Data cleaning & transformation • Dashboard design • SQL & MySQL • Storytelling through data
-
-**🤝 I’m open to collaborating on:**  
-- Real-world data analytics projects  
-- Dashboard design & automation  
-- KPIs, metrics, insights & performance tracking  
-
-**📫 How to reach me:**  
-[aryan93ap@gmail.com](mailto:aryan93ap@gmail.com)
-
----
-
 <h3 align="left">🛠️ Languages, Tools & Technologies:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -72,6 +49,32 @@ Data modelling • Data cleaning & transformation • Dashboard design • SQL &
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+**🔭 Right now I’m working on:**  
+A **Discord Chatbot which can performs action on specific commond** focusing on monthly sales trends, forecasting, and performance metrics to help businesses make sense of their data.
+
+**🌱 I’m currently learning & exploring:**  
+
+- I'm diving into Python to enhance my data analysis skills
+- Data storytelling with dashboards, charts, and clean layouts  
+
+**💬 Ask me about:**  
+Data modelling • Data cleaning & transformation • Dashboard design • SQL & MySQL • Storytelling through data
+
+**🤝 I’m open to collaborating on:**  
+- Real-world data analytics projects  
+- Dashboard design & automation  
+- KPIs, metrics, insights & performance tracking
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:aryan93ap@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aryan-paikrao/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
