@@ -9,7 +9,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Digitalt&size=36&duration=2500&pause=1000&color=6C889A&center=true&vCenter=true&width=900&lines=📊+From+Data+to+Decisions;💡+Problem+Solving+&+Data+Understanding;🚀+Passionate+About+AI;📈+Empowering+Data‑Driven+Action" 
+    src="https://readme-typing-svg.herokuapp.com?font=Digitalt&size=36&duration=2900&pause=1000&color=6C889A&center=true&vCenter=true&width=900&lines=📊+From+Data+to+Decisions;💡+Problem+Solving;🚀+Passionate+About+AI;📈+Empowering+Data‑Driven+Action" 
     alt="Typing SVG" 
   />
 </p>
